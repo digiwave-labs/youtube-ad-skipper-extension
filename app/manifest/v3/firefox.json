@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "YouTube Ad Skipper - By Digiwave",
     "description": "Automatically skips YouTube ads, even bypassing their latest anti-adblock measures. Experience uninterrupted viewing with Digiwave.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "permissions": [
         "storage"
     ],
